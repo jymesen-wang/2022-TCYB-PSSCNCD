@@ -7,3 +7,5 @@ https://ieeexplore.ieee.org/document/9409777
 
 The code explanation: 
 The main function of the code: PSSCNCD.m
+
+If you have any questions, please connect zhenyu.ma@mail.nwpu.edu.cn
